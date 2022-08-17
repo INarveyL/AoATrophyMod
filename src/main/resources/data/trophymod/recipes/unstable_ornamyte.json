@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "aoa3:ornamyte_block"
+    },
+    "S": {
+      "item": "aoa3:bloodstone_block"
+    }
+  },
+  "result": {
+    "item": "trophymod:unstable_ornamyte"
+  }
+}

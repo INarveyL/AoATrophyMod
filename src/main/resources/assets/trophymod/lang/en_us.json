@@ -1,0 +1,16 @@
+{
+  "item.trophymod.sword_of_divans": "Sword of Divan",
+  "item.trophymod.gate_keeper_sword": "Gate Keeper Sword",
+  "itemGroup.TrophiesMod" : "Trophies",
+  "item.trophymod.unstable_emberstone": "Unstable Emberstone",
+  "item.trophymod.unstable_jewelyte" : "Unstable Jewelyte",
+  "item.trophymod.unstable_ornamyte" : "Unstable Ornamyte",
+  "item.trophymod.unstable_gemenyte" : "Unstable Gemenyte",
+  "item.trophymod.unstable_lunar" : "Unstable Lunar",
+  "item.trophymod.unstable_material" : "Explasium Ingot",
+  "item.trophymod.unstable_bloodstone" : "Unstable Bloodstone",
+  "item.trophymod.divan_fragment" : "Divan Fragment",
+  "item.trophymod.divan_alloy" : "Divans Alloy",
+  "item.trophymod.keeper_handle" : "Keeper Hilt",
+  "item.trophymod.keeper_blade" : "Keeper Blade"
+}

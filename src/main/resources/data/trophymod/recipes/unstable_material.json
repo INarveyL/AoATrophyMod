@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item" : "trophymod:unstable_ornamyte",
+      "count" : 3
+    },
+    {
+      "item" : "trophymod:unstable_jewelyte",
+      "count" : 3
+    },
+    {
+      "item" : "trophymod:unstable_gemenyte",
+      "count" : 3
+    }
+  ],
+  "result": {
+    "item": "trophymod:unstable_material",
+    "count": 1
+  }
+}

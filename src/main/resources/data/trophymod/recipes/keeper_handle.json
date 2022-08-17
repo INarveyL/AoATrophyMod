@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "S",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "aoa3:limonite_rod"
+    },
+    "S": {
+      "item": "trophymod:unstable_material"
+    }
+  },
+  "result": {
+    "item": "trophymod:keeper_handle"
+  }
+}
